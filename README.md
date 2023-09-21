@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shifat Chowdhury
+## Hi, I'm Shifat Chowdhury👋
 ### Web Developer
 
 
