@@ -1,6 +1,5 @@
-https://media.licdn.com/dms/image/D5616AQHhhnoTDLyLRQ/profile-displaybackgroundimage-shrink_350_1400/0/1689760153731?e=1700697600&v=beta&t=pyFz_003BshZuNpugXL8pzNclyFnQi0TvuJ5whzzyNM
 ## Hi there 👋, I'm Shifat Chowdhury
-#### Web Developer
+###### Web Developer
 
 
 Welcome to my  GitHub profile! i'm a skilled web developer with experience in building modern and responsive websites. my GitHub profile showcases my expertise in various web technologies, including HTML, CSS, JavaScript, and popular frameworks such as React and Node js. all of which demonstrate my dedication to creating high-quality, user-friendly web experiences. As an active member of the developer community, i'm regularly contributes to open source projects and shares my knowledge and expertise with others. my GitHub profile is the perfect place to learn more about my skills and experience.
